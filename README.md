@@ -1,6 +1,6 @@
 # YouView App
 
-Youview is a website that let users play video. Used youtube API for data fetching, created typehead search component, mocking live chat feature, likes, nested comments, subscribes.
+Youview is a website that let users play video. Used youtube API for data fetching, created typehead search component, mocking live chat feature, likes, nested comments.
 
 ## Available Scripts
 
